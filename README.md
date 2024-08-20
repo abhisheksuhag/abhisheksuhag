@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhishek Suhag</h1>
 <h3 align="center">Passionate software engineer with a blend of automotive engineering expertise and programming prowess.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheksuhag&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksuhag" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisheksuhag" alt="abhisheksuhag" /></a> </p>
+
 
 - 🔭 I’m currently working on [userAuthWith-NextJS](https://github.com/abhisheksuhag/userAuthWith-NextJS)
 
@@ -15,7 +16,7 @@
 
 - 📫 How to reach me **abhi.shek.suhag001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hWQ91FMnD3OB7oz9-bScIMTNaEykqEBT/view?usp=sharing](https://drive.google.com/file/d/1hWQ91FMnD3OB7oz9-bScIMTNaEykqEBT/view?usp=sharing)
+- 📄 Know about my experiences My Resume(https://drive.google.com/file/d/1hWQ91FMnD3OB7oz9-bScIMTNaEykqEBT/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Witty.**
 
