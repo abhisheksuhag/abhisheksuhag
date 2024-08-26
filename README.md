@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **abhi.shek.suhag001@gmail.com**
 
-- 📄 Know about my experiences-  My Resume (https://drive.google.com/file/d/1hWQ91FMnD3OB7oz9-bScIMTNaEykqEBT/view?usp=sharing)
+- 📄 Know about my experiences-  My Resume (https://drive.google.com/file/d/1DtGbQwyDQZtZiU6S7NTiu_xxoF8jjcl_/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I am Witty.**
 
