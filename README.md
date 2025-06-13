@@ -9,13 +9,13 @@
 
 
 
-- 🔭 I’m currently working on [GHG-MERN](https://github.com/abhisheksuhag/GHG-MERN.git)
+- 🔭 I’m currently working on **SOMETHING LEGENDARY!!**
 
 - 🌱 I’m currently learning **React.JS, Next.JS, Node.JS, Express.JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhisheksuhag?tab=repositories](https://github.com/abhisheksuhag?tab=repositories)
 
-- 💬 Ask me about **Javascript, ReactJS, Node.JS, Express.JS, MongoDB**
+- 💬 Ask me about **Javascript, ReactJS, Node.JS, Express.JS, MongoDB, Postman , AWS-S3/EC2**
 
 - 📫 How to reach me **abhi.shek.suhag001@gmail.com**
 
